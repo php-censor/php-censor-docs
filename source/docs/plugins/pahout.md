@@ -1,3 +1,10 @@
+---
+title: Plugin Pahout
+description: Plugin Pahout
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Pahout
 =============
 

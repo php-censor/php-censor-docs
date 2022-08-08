@@ -1,3 +1,10 @@
+---
+title: Injecting variables into messages
+description: Injecting variables into messages
+extends: _layouts.documentation
+section: content
+---
+
 Injecting variables into messages
 =================================
 

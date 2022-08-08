@@ -1,3 +1,10 @@
+---
+title: Automatically building commits pushed to GitHub
+description: Automatically building commits pushed to GitHub
+extends: _layouts.documentation
+section: content
+---
+
 Automatically building commits pushed to GitHub
 ===============================================
 

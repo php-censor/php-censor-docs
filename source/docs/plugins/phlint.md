@@ -1,3 +1,10 @@
+---
+title: Plugin Phlint
+description: Plugin Phlint
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Phlint
 =============
 

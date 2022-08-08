@@ -1,5 +1,12 @@
-Plugin SlackNotify
-==================
+---
+title: Plugin Slack Notify
+description: Plugin Slack Notify
+extends: _layouts.documentation
+section: content
+---
+
+Plugin Slack Notify
+===================
 
 This plugin joins a [Slack](https://www.slack.com/) room and sends a user-defined message, for example a "Build 
 Succeeded" message.

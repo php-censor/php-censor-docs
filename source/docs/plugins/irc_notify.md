@@ -1,3 +1,10 @@
+---
+title: Plugin IRC Notify
+description: Plugin IRC Notify
+extends: _layouts.documentation
+section: content
+---
+
 Plugin IRC Notify
 =================
 

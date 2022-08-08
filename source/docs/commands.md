@@ -1,3 +1,10 @@
+---
+title: Console commands
+description: Console commands
+extends: _layouts.documentation
+section: content
+---
+
 Console commands
 ================
 

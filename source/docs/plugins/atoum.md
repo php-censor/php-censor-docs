@@ -1,3 +1,10 @@
+---
+title: Plugin Atoum
+description: Plugin Atoum
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Atoum
 ============
 

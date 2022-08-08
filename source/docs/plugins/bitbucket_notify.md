@@ -1,5 +1,12 @@
+---
+title: Plugin Bitbucket Notify
+description: Plugin Bitbucket Notify
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Bitbucket Notify
-=========================
+=======================
 
 This plugin notify you in Bitbucket about the build status with comments, tasks and build info.
 

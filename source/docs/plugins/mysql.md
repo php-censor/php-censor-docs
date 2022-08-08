@@ -1,3 +1,10 @@
+---
+title: Plugin MySQL
+description: Plugin MySQL
+extends: _layouts.documentation
+section: content
+---
+
 Plugin MySQL
 ============
 

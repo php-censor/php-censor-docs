@@ -1,3 +1,10 @@
+---
+title: Automatically building commits pushed to Bitbucket
+description: Automatically building commits pushed to Bitbucket
+extends: _layouts.documentation
+section: content
+---
+
 Automatically building commits pushed to Bitbucket
 ==================================================
 

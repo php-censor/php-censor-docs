@@ -1,3 +1,10 @@
+---
+title: Plugin Mage v3
+description: Plugin Mage v3
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Mage v3
 ==============
 

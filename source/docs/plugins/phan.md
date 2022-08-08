@@ -1,3 +1,10 @@
+---
+title: Plugin Phan
+description: Plugin Phan
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Phan
 ===========
 

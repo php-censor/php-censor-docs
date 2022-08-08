@@ -1,3 +1,10 @@
+---
+title: Configuring PHP Censor
+description: Configuring PHP Censor
+extends: _layouts.documentation
+section: content
+---
+
 Configuring PHP Censor
 ======================
 

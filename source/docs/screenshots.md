@@ -1,3 +1,10 @@
+---
+title: Screenshots
+description: Screenshots
+extends: _layouts.documentation
+section: content
+---
+
 Screenshots
 ===========
 

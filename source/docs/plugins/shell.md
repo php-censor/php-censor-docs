@@ -1,3 +1,10 @@
+---
+title: Plugin Shell
+description: Plugin Shell
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Shell
 ============
 

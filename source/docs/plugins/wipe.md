@@ -1,3 +1,10 @@
+---
+title: Plugin Wipe
+description: Plugin Wipe
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Wipe
 ===========
 

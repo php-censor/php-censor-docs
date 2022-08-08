@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Code Sniffer
+description: Plugin PHP Code Sniffer
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Code Sniffer
 =======================
 

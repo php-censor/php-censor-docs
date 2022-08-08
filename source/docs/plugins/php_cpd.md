@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Copy/Paste Detector
+description: Plugin PHP Copy/Paste Detector
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Copy/Paste Detector
 ==============================
 

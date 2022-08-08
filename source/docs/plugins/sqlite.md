@@ -1,3 +1,10 @@
+---
+title: Plugin SQLite
+description: Plugin SQLite
+extends: _layouts.documentation
+section: content
+---
+
 Plugin SQLite
 =============
 

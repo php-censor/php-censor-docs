@@ -1,3 +1,10 @@
+---
+title: Plugin PhpStan
+description: Plugin PhpStan
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PhpStan
 ==============
 

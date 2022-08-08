@@ -1,3 +1,10 @@
+---
+title: Plugin Mage
+description: Plugin Mage
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Mage
 ===========
 

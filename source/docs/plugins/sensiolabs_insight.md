@@ -1,3 +1,10 @@
+---
+title: Plugin SensioLabs Insight
+description: Plugin SensioLabs Insight
+extends: _layouts.documentation
+section: content
+---
+
 Plugin SensioLabs Insight
 =========================
 

@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Spec
+description: Plugin PHP Spec
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Spec
 ===============
 

@@ -1,3 +1,10 @@
+---
+title: Adding a Virtual Host
+description: Adding a Virtual Host
+extends: _layouts.documentation
+section: content
+---
+
 Adding a Virtual Host
 =====================
 

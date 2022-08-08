@@ -1,3 +1,10 @@
+---
+title: Plugin Telegram Notify
+description: Plugin Telegram Notify
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Telegram Notify
 ======================
 

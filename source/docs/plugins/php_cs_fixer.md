@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Coding Standards Fixer
+description: Plugin PHP Coding Standards Fixer
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Coding Standards Fixer
 =================================
 

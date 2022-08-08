@@ -1,3 +1,10 @@
+---
+title: Plugin PHPLoc
+description: Plugin PHPLoc
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHPLoc
 =============
 

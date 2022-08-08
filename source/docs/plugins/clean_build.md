@@ -1,3 +1,10 @@
+---
+title: Plugin Clean build
+description: Plugin Clean build
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Clean build
 ==================
 

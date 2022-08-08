@@ -1,5 +1,12 @@
-Plugin WebhookNotify
-==================
+---
+title: Plugin Webhook Notify
+description: Plugin Webhook Notify
+extends: _layouts.documentation
+section: content
+---
+
+Plugin Webhook Notify
+=====================
 
 This plugin sends a JSON web hook to a configured URL.
 

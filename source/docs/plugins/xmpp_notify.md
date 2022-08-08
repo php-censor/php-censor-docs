@@ -1,3 +1,10 @@
+---
+title: Plugin XMPP Notify
+description: Plugin XMPP Notify
+extends: _layouts.documentation
+section: content
+---
+
 Plugin XMPP Notify
 ==================
 

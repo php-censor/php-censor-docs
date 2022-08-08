@@ -1,7 +1,14 @@
+---
+title: Plugin Lint
+description: Plugin Lint
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Lint
 ===========
 
-This plugin runs PHP's built in Lint (syntax / error check) functionality.
+This plugin runs PHP's builtin Lint (syntax / error check) functionality.
 
 Configuration
 -------------

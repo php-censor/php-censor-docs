@@ -1,3 +1,10 @@
+---
+title: Plugin Package Build
+description: Plugin Package Build
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Package Build
 ====================
 

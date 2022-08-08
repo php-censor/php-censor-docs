@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Mess Detector
+description: Plugin PHP Mess Detector
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Mess Detector
 ========================
 

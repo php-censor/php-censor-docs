@@ -1,5 +1,12 @@
-Plugin HipchatNotify
-====================
+---
+title: Plugin Hipchat Notify
+description: Plugin Hipchat Notify
+extends: _layouts.documentation
+section: content
+---
+
+Plugin Hipchat Notify
+=====================
 
 This plugin joins a [HipChat](https://www.hipchat.com/) room and sends a user-defined message, for example a 
 "Build Succeeded" message.

@@ -1,3 +1,10 @@
+---
+title: Project Public Status Image and Page
+description: Project Public Status Image and Page
+extends: _layouts.documentation
+section: content
+---
+
 Project Public Status Image and Page
 ====================================
 

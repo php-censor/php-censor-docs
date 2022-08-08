@@ -1,3 +1,10 @@
+---
+title: Installing
+description: Installing
+extends: _layouts.documentation
+section: content
+---
+
 Installing
 ==========
 

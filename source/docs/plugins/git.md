@@ -1,3 +1,10 @@
+---
+title: Plugin Git
+description: Plugin Git
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Git
 ==========
 

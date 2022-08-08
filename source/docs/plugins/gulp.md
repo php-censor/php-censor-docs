@@ -1,4 +1,11 @@
-Plugin gulp
+---
+title: Plugin Gulp
+description: Plugin Gulp
+extends: _layouts.documentation
+section: content
+---
+
+Plugin Gulp
 ===========
 
 This plugin runs [gulpjs](https://gulpjs.com/) tasks.

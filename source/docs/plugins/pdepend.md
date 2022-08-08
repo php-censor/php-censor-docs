@@ -1,3 +1,11 @@
+---
+title: Plugin Pdepend
+description: Plugin Pdepend
+extends: _layouts.documentation
+section: content
+---
+
+
 Plugin Pdepend
 ==============
 

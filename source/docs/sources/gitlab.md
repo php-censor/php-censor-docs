@@ -1,3 +1,10 @@
+---
+title: Automatically building commits pushed to GitLab
+description: Automatically building commits pushed to GitLab
+extends: _layouts.documentation
+section: content
+---
+
 Automatically building commits pushed to GitLab
 ===============================================
 

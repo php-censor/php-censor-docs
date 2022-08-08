@@ -1,3 +1,10 @@
+---
+title: Updating
+description: Updating
+extends: _layouts.documentation
+section: content
+---
+
 Updating
 ========
 

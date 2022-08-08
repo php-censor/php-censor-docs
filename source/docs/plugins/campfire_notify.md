@@ -1,3 +1,10 @@
+---
+title: Plugin Campfire Notify
+description: Plugin Campfire Notify
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Campfire Notify
 ======================
 

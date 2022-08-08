@@ -1,3 +1,10 @@
+---
+title: Plugin Email Notify
+description: Plugin Email Notify
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Email Notify
 ===================
 

@@ -1,3 +1,10 @@
+---
+title: Plugin Codeception
+description: Plugin Codeception
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Codeception
 ==================
 

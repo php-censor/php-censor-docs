@@ -1,3 +1,10 @@
+---
+title: Plugin PostgreSQL
+description: Plugin PostgreSQL
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PostgreSQL
 =================
 

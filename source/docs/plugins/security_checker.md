@@ -1,3 +1,10 @@
+---
+title: SensioLabs Security Checker Plugin
+description: SensioLabs Security Checker Plugin
+extends: _layouts.documentation
+section: content
+---
+
 SensioLabs Security Checker Plugin
 ==================================
 

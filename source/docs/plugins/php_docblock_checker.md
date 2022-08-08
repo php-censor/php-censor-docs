@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Docblock Checker
+description: Plugin PHP Docblock Checker
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Docblock Checker
 ===========================
 

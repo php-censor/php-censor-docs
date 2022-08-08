@@ -1,3 +1,10 @@
+---
+title: Plugin Deployer
+description: Plugin Deployer
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Deployer
 ===============
 

@@ -1,3 +1,10 @@
+---
+title: Plugin PHP TAL Lint
+description: Plugin PHP TAL Lint
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP TAL Lint
 ===================
 

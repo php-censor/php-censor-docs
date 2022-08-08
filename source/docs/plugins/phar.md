@@ -1,3 +1,10 @@
+---
+title: Plugin Phar
+description: Plugin Phar
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Phar
 ===========
 

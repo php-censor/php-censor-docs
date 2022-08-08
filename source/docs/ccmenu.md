@@ -1,3 +1,10 @@
+---
+title: CCMenu/CCTray integration
+description: CCMenu/CCTray integration
+extends: _layouts.documentation
+section: content
+---
+
 CCMenu/CCTray integration
 =========================
 

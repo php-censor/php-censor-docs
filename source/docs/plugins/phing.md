@@ -1,3 +1,10 @@
+---
+title: Plugin Phing
+description: Plugin Phing
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Phing
 ============
 

@@ -1,3 +1,10 @@
+---
+title: Project Build Configurations in PHP Censor
+description: Project Build Configurations in PHP Censor
+extends: _layouts.documentation
+section: content
+---
+
 Project Build Configurations in PHP Censor
 ==========================================
 

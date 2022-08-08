@@ -1,3 +1,10 @@
+---
+title: Plugin Psalm
+description: Plugin Psalm
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Psalm
 ============
 

@@ -1,3 +1,10 @@
+---
+title: Plugin Composer
+description: Plugin Composer
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Composer
 ===============
 

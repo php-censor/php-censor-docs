@@ -1,3 +1,10 @@
+---
+title: Plugin PHPUnit
+description: Plugin PHPUnit
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHPUnit
 ==============
 

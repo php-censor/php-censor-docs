@@ -1,3 +1,10 @@
+---
+title: Plugin Technical Debt
+description: Plugin Technical Debt
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Technical Debt
 =====================
 

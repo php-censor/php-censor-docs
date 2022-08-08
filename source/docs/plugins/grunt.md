@@ -1,3 +1,10 @@
+---
+title: Plugin Grunt
+description: Plugin Grunt
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Grunt
 ============
 

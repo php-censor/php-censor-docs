@@ -1,3 +1,10 @@
+---
+title: Plugin Behat
+description: Plugin Behat
+extends: _layouts.documentation
+section: content
+---
+
 Plugin Behat
 ============
 

@@ -1,3 +1,10 @@
+---
+title: Plugin PHP Parallel Lint
+description: Plugin PHP Parallel Lint
+extends: _layouts.documentation
+section: content
+---
+
 Plugin PHP Parallel Lint
 ========================
 
