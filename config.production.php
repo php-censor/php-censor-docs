@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://jigsaw-docs-template.tighten.co',
+    'baseUrl' => 'https://php-censor.info',
     'production' => true,
 
     // DocSearch credentials

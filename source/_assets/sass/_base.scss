@@ -110,6 +110,11 @@ ul {
 
 ol {
     @apply .list-decimal;
+    @apply .list-inside;
+}
+
+ol li p {
+    display: inline-block;
 }
 
 p {
