@@ -4,3 +4,8 @@
 /source/assets/build/
 .env
 npm-debug.log
+
+/source/docs
+!/source/docs/.gitkeep
+
+/source/assets/img/docs
