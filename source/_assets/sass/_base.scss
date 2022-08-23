@@ -106,6 +106,7 @@ li {
 ol,
 ul {
     @apply .my-4;
+    list-style: de;
 }
 
 ol {
@@ -113,7 +114,12 @@ ol {
     @apply .list-inside;
 }
 
-ol li p {
+ul {
+    @apply .list-disc;
+    @apply .list-inside;
+}
+
+ol li p, ul li p {
     display: inline-block;
 }
 

@@ -7,6 +7,7 @@
             <h1 id="intro-docs-template">{{ $page->siteName }}</h1>
 
             <h2 id="intro-powered-by-jigsaw" class="font-light mt-4">{{ $page->siteDescription }}</h2>
+            <p>Current stable version is <strong><a href="https://github.com/php-censor/php-censor/releases/tag/2.1.0" title="PHP Censor version 2.1.0">2.1.0</a></strong></p>
 
             <div class="flex my-10">
                 <a href="/docs/installing" title="{{ $page->siteName }} Documentation" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Documentation</a>
