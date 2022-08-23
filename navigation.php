@@ -13,6 +13,9 @@ return [
             'Adding PHP Censor support to your projects' => 'docs/configuring_project',
             'Updating PHP Censor'                        => 'docs/updating',
             'Configuring PHP Censor'                     => 'docs/configuring_application',
+            'Screenshots'                                => 'docs/screenshots',
+            'Upgrade from v1 to v2'                      => 'docs/upgrade_from_1_to_2',
+            'Changelog 2.1'                              => 'docs/changelog_2_1',
         ],
     ],
     'Using PHP Censor' => [

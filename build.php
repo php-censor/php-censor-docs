@@ -9,9 +9,9 @@ const ROOT_DIR = __DIR__;
 
 \exec('git clone https://github.com/php-censor/php-censor.git "docs-raw"');
 
-\mkdir('docs/plugins', 0777, true);
-\mkdir('docs/sources', 0777, true);
-\mkdir('docs/workers', 0777, true);
+\mkdir('docs/plugins', 0755, true);
+\mkdir('docs/sources', 0755, true);
+\mkdir('docs/workers', 0755, true);
 
 \exec('cp --recursive --no-target-directory "docs-raw/docs/images" "assets/img/docs"');
 \exec('cp --recursive --no-target-directory "docs-raw/docs/screenshots" "assets/img/docs/screenshots"');
@@ -47,9 +47,15 @@ function parse(array $config, &$result): void {
 \parse($config, $result);
 
 foreach ($result as $path => $title) {
-    $newPath = \substr($path, \strlen('docs/'));
+    $newPath = 'docs-raw/docs/en/' . \substr($path, \strlen('docs/'));
+    if ('docs/upgrade_from_1_to_2' === $path) {
+        $newPath = 'docs-raw/docs/UPGRADE_2.0';
+    }
+    if ('docs/changelog_2_1' === $path) {
+        $newPath = 'docs-raw/CHANGELOG';
+    }
 
-    $content = \file_get_contents('docs-raw/docs/en/' . $newPath . '.md');
+    $content = \file_get_contents($newPath . '.md');
     $content = \str_replace(['../screenshots/', '../images/'], ['/assets/img/docs/screenshots/', '/assets/img/docs/'], $content);
 
     $prefix = "---
@@ -60,7 +66,7 @@ section: content
 ---
 
 ";
-    \file_put_contents('docs/' . $newPath . '.md', \sprintf('%s%s', $prefix, $content));
+    \file_put_contents($path . '.md', \sprintf('%s%s', $prefix, $content));
 }
 
 \exec('rm --force --recursive --verbose "docs-raw"');
