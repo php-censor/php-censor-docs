@@ -14,8 +14,8 @@ return [
             'Updating PHP Censor'                        => 'docs/updating',
             'Configuring PHP Censor'                     => 'docs/configuring_application',
             'Screenshots'                                => 'docs/screenshots',
-            'Upgrade from v1 to v2'                      => 'docs/upgrade_from_1_to_2',
-            'Changelog 2.1'                              => 'docs/changelog_2_1',
+            #'Upgrade from v1 to v2'                      => 'docs/upgrade_from_1_to_2',
+            #'Changelog 2.1'                              => 'docs/changelog_2_1',
         ],
     ],
     'Using PHP Censor' => [
@@ -99,7 +99,6 @@ return [
                     'Campfire' => 'docs/plugins/campfire_notify',
                     'Email'    => 'docs/plugins/email_notify',
                     'FlowDock' => 'docs/plugins/flowdock_notify',
-                    'HipChat'  => 'docs/plugins/hipchat_notify',
                     'IRC'      => 'docs/plugins/irc_notify',
                     'Slack'    => 'docs/plugins/slack_notify',
                     'Telegram' => 'docs/plugins/telegram_notify',

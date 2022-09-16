@@ -48,15 +48,19 @@ function parse(array $config, &$result): void {
 
 foreach ($result as $path => $title) {
     $newPath = 'docs-raw/docs/en/' . \substr($path, \strlen('docs/'));
-    if ('docs/upgrade_from_1_to_2' === $path) {
+/*    if ('docs/upgrade_from_1_to_2' === $path) {
         $newPath = 'docs-raw/docs/UPGRADE_2.0';
     }
     if ('docs/changelog_2_1' === $path) {
         $newPath = 'docs-raw/CHANGELOG';
-    }
+    }*/
 
     $content = \file_get_contents($newPath . '.md');
     $content = \str_replace(['../screenshots/', '../images/'], ['/assets/img/docs/screenshots/', '/assets/img/docs/'], $content);
+    $content = \preg_replace(['#docs/en/(plugins|sources|workers)/([-_\w\d]+?)\.md#'], ['$1/$2'], $content);
+    $content = \preg_replace(['#docs/en/([-_\w\d]+?)\.md#'], ['$1'], $content);
+    $content = \preg_replace(['#(plugins|sources|workers)/([-_\w\d]+?)\.md#'], ['$1/$2'], $content);
+    $content = \preg_replace(['#\(([-_\w\d]+?)\.md\)#'], ['($1)'], $content);
 
     $prefix = "---
 title: {$title}
